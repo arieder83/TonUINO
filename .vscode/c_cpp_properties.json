@@ -3,25 +3,16 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:\\Users\\Alex\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
-                "C:\\Users\\Alex\\AppData\\Local\\Arduino15\\Midpackages\\esp8266\\hardware\\esp8266\\2.5.0\\**",
-                "C:\\Users\\Alex\\Documents\\Arduino\\libraries\\MFRC522\\src",
-                "C:\\Users\\Alex\\Documents\\Arduino\\libraries\\JC_Button\\src",
-                "C:\\Users\\Alex\\Documents\\Arduino\\libraries\\DFPlayer_Mini_Mp3_by_Makuna\\src",
                 "C:\\Dev\\Arduino\\tools\\**",
                 "C:\\Dev\\Arduino\\hardware\\arduino\\avr\\**",
-                "${workspaceFolder}/**",
-                "C:/Users/Alex/Documents/Arduino/libraries/**"
+                "C:\\Dev\\Arduino\\hardware\\tools\\**",
+                "C:\\Dev\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "C:\\Users\\Alex\\Documents\\Arduino\\libraries\\**"
             ],
-            "defines": [
-                "_DEBUG",
-                "UNICODE",
-                "_UNICODE"
-            ],
-            "intelliSenseMode": "msvc-x64",
             "forcedInclude": [
                 "C:\\Dev\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
-            ]
+            ],
+            "intelliSenseMode": "msvc-x64"
         }
     ],
     "version": 4
