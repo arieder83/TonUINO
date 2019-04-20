@@ -18,7 +18,7 @@
 */
 
 // uncomment the below line to enable five button support
-//#define FIVEBUTTONS
+#define FIVEBUTTONS
 
 static const uint32_t cardCookie = 322417479;
 

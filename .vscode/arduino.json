@@ -2,5 +2,5 @@
     "board": "arduino:avr:nano",
     "configuration": "cpu=atmega328old",
     "sketch": "Tonuino.ino",
-    "port": "COM4"
+    "port": "COM6"
 }
